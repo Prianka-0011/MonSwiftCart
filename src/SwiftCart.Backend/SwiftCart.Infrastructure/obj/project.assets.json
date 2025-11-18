@@ -4336,43 +4336,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pmondal\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\mongm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj",
       "projectName": "SwiftCart.Infrastructure",
-      "projectPath": "D:\\SwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\pmondal\\.nuget\\packages\\",
-      "outputPath": "D:\\SwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\obj\\",
+      "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\mongm\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\pmondal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mongm\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\SwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj": {
-              "projectPath": "D:\\SwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj"
+            "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj": {
+              "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj"
             },
-            "D:\\SwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj": {
-              "projectPath": "D:\\SwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj"
+            "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj": {
+              "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj"
             }
           }
         }
@@ -4386,7 +4378,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4430,12 +4423,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
