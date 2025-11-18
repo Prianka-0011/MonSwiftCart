@@ -2,6 +2,9 @@ using EmotiaMart.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using SwiftCart.Application.Interfaces.Repositories;
+using SwiftCart.Domain.Entities;
+using SwiftCart.Infrastructure.Repositories;
 
 
 namespace SwiftCart.Infrastructure
@@ -14,9 +17,9 @@ namespace SwiftCart.Infrastructure
                 : "localhost";
 
         private static int dbPort => int.TryParse(Environment.GetEnvironmentVariable("DB_PORT"), out var port) ? port : 1433;
-        private static string dbName => Environment.GetEnvironmentVariable("DB_NAME") ?? "SwiftDb";
+        private static string dbName => Environment.GetEnvironmentVariable("DB_NAME") ?? "SwiftCartDb";
         private static string dbUser => Environment.GetEnvironmentVariable("DB_USER") ?? "sa";
-        private static string dbPass => Environment.GetEnvironmentVariable("DB_PASS") ?? "Swift123!";
+        private static string dbPass => Environment.GetEnvironmentVariable("DB_PASS") ?? "SwiftCart123!";
 
         public static string GetConnectionString(string databaseName)
         {
@@ -72,7 +75,7 @@ namespace SwiftCart.Infrastructure
 
             // Register other services, repositories, etc.
             // services.AddScoped<IUserRepository, UserRepository>();
-            
+             services.AddScoped<ITestRepository, TestRepository>();
 
             return services;
         }

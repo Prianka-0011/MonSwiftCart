@@ -21,6 +21,7 @@ namespace EmotiaMart.Infrastructure.Data
             // optionsBuilder.AddInterceptors(new AuditInterceptor(currentUserId));
             base.OnConfiguring(optionsBuilder);
         }
+         public DbSet<Test> Tests { get; set; } = null!;
         // public DbSet<User> Users { get; set; } = null!;
         // public DbSet<Address> Addresses { get; set; } = null!;
 
