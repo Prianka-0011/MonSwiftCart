@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ncKyJ4UKwY=",
+  "dgSpecHash": "rREDkRVShCo=",
   "success": true,
-  "projectFilePath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
+  "projectFilePath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mongm\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mongm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -104,9 +104,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.0.1 was resolved.",
-      "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
+      "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
+      "filePath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
       "libraryId": "MediatR",
       "targetGraphs": [
         "net8.0"

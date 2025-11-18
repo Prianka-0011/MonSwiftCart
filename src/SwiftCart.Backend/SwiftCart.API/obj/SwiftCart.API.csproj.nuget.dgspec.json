@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj": {}
+    "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj": {
+    "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
+        "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
         "projectName": "SwiftCart.API",
-        "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
+        "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\SwiftCart.API.csproj",
         "packagesPath": "C:\\Users\\mongm\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\obj\\",
+        "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mongm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj": {
-                "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj"
+              "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj": {
+                "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj"
               },
-              "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj": {
-                "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj"
+              "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj": {
+                "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj"
               }
             }
           }
@@ -115,14 +115,14 @@
         }
       }
     },
-    "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj": {
+    "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj",
+        "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj",
         "projectName": "SwiftCart.Application",
-        "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj",
+        "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj",
         "packagesPath": "C:\\Users\\mongm\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\obj\\",
+        "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mongm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -206,14 +206,14 @@
         }
       }
     },
-    "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj": {
+    "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj",
+        "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj",
         "projectName": "SwiftCart.Domain",
-        "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj",
+        "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj",
         "packagesPath": "C:\\Users\\mongm\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\obj\\",
+        "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mongm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -279,14 +279,14 @@
         }
       }
     },
-    "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj": {
+    "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj",
         "projectName": "SwiftCart.Infrastructure",
-        "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj",
+        "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\SwiftCart.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\mongm\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\obj\\",
+        "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mongm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -301,11 +301,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj": {
-                "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj"
+              "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj": {
+                "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj"
               },
-              "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj": {
-                "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj"
+              "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj": {
+                "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Domain\\SwiftCart.Domain.csproj"
               }
             }
           }

@@ -410,11 +410,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj",
+      "projectUniqueName": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj",
       "projectName": "SwiftCart.Application",
-      "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj",
+      "projectPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\SwiftCart.Application.csproj",
       "packagesPath": "C:\\Users\\mongm\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\obj\\",
+      "outputPath": "D:\\Project\\Project-1\\MonSwiftCart\\src\\SwiftCart.Backend\\SwiftCart.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mongm\\AppData\\Roaming\\NuGet\\NuGet.Config"

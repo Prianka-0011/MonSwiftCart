@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwiftCart.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c864fbe26863fa61652e3a90a359452970471903")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20bd014bfe67120f906b7c510d2962adb6ace7da")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwiftCart.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwiftCart.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
